@@ -25,4 +25,11 @@ function multiply(a, b){
   return a * b
 }
 ```
+## Experience
 
+## Education
+* Secondary vocational education at Polzunov Ural State College
+
+## Languages
+* **Russian:** native speaker
+* **English:** A2 (keep learning)
